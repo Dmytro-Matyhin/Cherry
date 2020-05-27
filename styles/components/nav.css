@@ -1,0 +1,10 @@
+.nav {
+  padding: 11px 0 13px 30px;
+  background-color: #ff1744;
+}
+.nav-item {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 14px;
+  padding-right: 25px;
+}

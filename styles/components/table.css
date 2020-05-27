@@ -1,0 +1,36 @@
+.table {
+  color: #fefeff;
+  font-size: 12px;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+.red-table-row {
+  background-color: #ff1744;
+}
+
+.grey-table-row {
+  background-color: #282d33;
+}
+.table-row {
+  padding: 13px 23px 10px;
+}
+
+
+th, td {
+  font-weight: 400;
+  border: 1px solid #d8dbde;
+}
+
+.table-curve-top-left {
+  border-top-left-radius: 25%;
+}
+.table-curve-top-rigth {
+  border-top-right-radius: 15%;
+}
+.table-curve-bottom-left {
+  border-bottom-left-radius: 25%;
+}
+.table-curve-bottom-rigth {
+  border-bottom-right-radius: 10%;
+}

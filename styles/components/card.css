@@ -1,0 +1,19 @@
+.card-title {
+  font-size: 18px;
+  color: #282d33;
+  margin: 25px 0 20px;
+}
+
+.card-description {
+  font-size: 12px;
+  margin-bottom: 36px;
+}
+
+.card-link {
+  color: #ff1744;
+  text-decoration: underline;
+}
+
+.card-link:hover {
+  color: #a5adb8;
+}

@@ -1,0 +1,31 @@
+.section-title {
+  font-size: 24px;
+  line-height: 14px;
+  vertical-align: middle;
+  color: #a5adb8;
+  margin-bottom: 22px;
+}
+
+.section-description {  
+  margin: 0;
+}
+
+.section-decoration {
+  color: #ff1744;
+  text-decoration: underline;
+}
+
+.section-lists {
+  padding: 31px 0 39px;
+}
+
+.section-subtitle {
+  line-height: 24px;
+  margin-bottom: 9px;
+}
+
+.section-content {
+  font-size: 12px;
+  color: #85898f;
+  margin-top: 11px;
+}

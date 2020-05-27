@@ -1,0 +1,33 @@
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.list-item {
+  margin: 0 0 9px;
+}
+
+.list-circle > .list-item::before {
+  content: '';
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  background-color: #5c646e;
+  border-radius: 50%;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.list-indent > .list-item {
+  padding-left: 20px;
+}
+
+.list-cherry > .list-item::before {
+  background-color: #ff1744;
+  margin-right: 12px;
+}
+
+.list-padding {
+  padding-top: 13px;
+}
